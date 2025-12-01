@@ -12,5 +12,7 @@ Repository for practice in Software System Development 2025
 ...
   * Hello! I'm Yutaro!
   * Love from IS!
+  * Hi! I'm Masatoshi!
+  # Love from Japan!
 * bottom:
 ####
