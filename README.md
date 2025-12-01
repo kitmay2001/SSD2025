@@ -8,9 +8,7 @@ Repository for practice in Software System Development 2025
 ## put you lines between top and bottom lines
 
 * top:
-  * Hi this is Hajimu!
-...
-  * Hello! I'm Yutaro!
-  * Love from IS!
+  * Call back test A-B-C
+  * Check  
 * bottom:
 ####
